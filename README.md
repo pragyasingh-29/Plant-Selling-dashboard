@@ -13,3 +13,6 @@ I have designed a plant selling dashboard using pure React and Vite, without any
 
 
 ![Screenshot 2024-07-10 054355](https://github.com/pragyasingh-29/Plant-Selling-dashboard/assets/129204388/29ad2be3-d48e-460b-94cf-173a5ae2a1fd)
+
+
+![image](https://github.com/pragyasingh-29/Plant-Selling-dashboard/assets/129204388/e2aefac8-2395-4a6a-b8c1-3f581ca167dd)

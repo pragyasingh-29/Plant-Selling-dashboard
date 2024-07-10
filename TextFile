@@ -1,0 +1,30 @@
+we have two faolders
+
+
+client and server
+
+
+client- it will hold our frontend
+
+server-will be our express server
+
+
+lets create our component now
+
+Remember these will be in different routes/pages
+so we need to create routes.
+
+lets build these pages now;
+
+so guys we have all the components and styling almost done
+Im going to make it responsive firset and then get to implement the backend and dashboard component
+
+
+lets first make these components responsive
+
+//Media Queries ===>
+
+
+so everything almost done for the frontend
+
+now lets start working on our server folder.

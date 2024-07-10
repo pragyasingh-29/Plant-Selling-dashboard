@@ -6,7 +6,8 @@
 
 I have designed a plant selling dashboard using pure React and Vite, with  backend integration only for sign-in and register using API's. The dashboard provides an intuitive and responsive interface for users to browse and purchase plants.
 
-## Tech Stack use: MongoDB, React, Express, Node
+# Tech Stack used:
+### MongoDB, React, Express, Node
 
 ## Screenshots
 

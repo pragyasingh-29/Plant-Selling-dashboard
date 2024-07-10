@@ -1,4 +1,10 @@
-# Plant-Selling-dashboard (React + Vite)
+# Plant-Selling-dashboard 
+
+#### Responsive for all screen sizes
+
+## (React + Vite)
+
+I have designed a plant selling dashboard using pure React and Vite, without any backend integration. The dashboard provides an intuitive and responsive interface for users to browse and purchase plants.
 
 ## Screenshots
 

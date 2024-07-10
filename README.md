@@ -1,4 +1,4 @@
-# Plant-Selling-dashboard
+# Plant-Selling-dashboard (React + Vite)
 
 ## Screenshots
 

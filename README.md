@@ -4,7 +4,7 @@
 
 ## (React + Vite)
 
-I have designed a plant selling dashboard using pure React and Vite, without any backend integration. The dashboard provides an intuitive and responsive interface for users to browse and purchase plants.
+I have designed a plant selling dashboard using pure React and Vite, with  backend integration only for sign-in and register. The dashboard provides an intuitive and responsive interface for users to browse and purchase plants.
 
 ## Screenshots
 
